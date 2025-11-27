@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/controller/animation_controller_blend.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::BlendAnimationController;Animation/Controller; ;      nau::animation::BlendAnimationController ;;

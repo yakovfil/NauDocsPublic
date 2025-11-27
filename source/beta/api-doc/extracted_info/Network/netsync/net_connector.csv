@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/netsync/net_connector.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::INetConnector;Network;Provides an interface for network connector service which manages connections between peers.;      nau::INetConnector     ;;

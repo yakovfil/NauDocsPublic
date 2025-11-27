@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_path.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+class;nau::AssetPath;Assets; ;      nau::AssetPath     ;;
+struct;std::hash;Assets; ;template <>  std::hash<::nau::AssetPath> ;::nau::AssetPath;
+struct;eastl::hash;Assets; ;template <>  eastl::hash<::nau::AssetPath> ;::nau::AssetPath;

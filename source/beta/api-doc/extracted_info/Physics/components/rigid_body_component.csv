@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/components/rigid_body_component.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+class;nau::physics::RigidBodyComponent;Physics/Components;Implements rigid body component logic.;      nau::physics::RigidBodyComponent ;;

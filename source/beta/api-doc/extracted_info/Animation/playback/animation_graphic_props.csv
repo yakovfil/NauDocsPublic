@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_graphic_props.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::ColorAnimation;Animation; ;      nau::animation::ColorAnimation ;;
+class;nau::animation::OpacityAnimation;Animation; ;      nau::animation::OpacityAnimation ;;

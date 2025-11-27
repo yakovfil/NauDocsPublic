@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/graphics_assets/include/graphics_assets/shader_asset.h;
+file;;GraphicsAssets;;;;
+namespace;nau;GraphicsAssets; ;nau ;;
+class;nau::ShaderAssetView;GraphicsAssets/Shaders; ;      nau::ShaderAssetView ;;
+namespace;nau::shader_globals;GraphicsAssets; ;nau::shader_globals ;;
+function;nau::shader_globals::updateTables;GraphicsAssets/Shaders; ;     void nau::shader_globals::updateTables(const Shader* shader);const Shader* shader;

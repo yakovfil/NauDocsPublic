@@ -1,0 +1,15 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/ui_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::UiElementAssetCustomData;Assets/UI; ;      nau::UiElementAssetCustomData     ;;
+struct;nau::NauLabelAssetData;Assets/UI; ;     nau::NauLabelAssetData  ;;
+struct;nau::NauButtonStateAssetData;Assets/UI; ;     nau::NauButtonStateAssetData     ;;
+struct;nau::NauButtonAssetData;Assets/UI; ;     nau::NauButtonAssetData  ;;
+struct;nau::SpriteAssetData;Assets/UI; ;     nau::SpriteAssetData  ;;
+struct;nau::DrawNodeDrawPolygon;Assets/UI; ;     nau::DrawNodeDrawPolygon     ;;
+struct;nau::ScrollAssetData;Assets/UI; ;     nau::ScrollAssetData  ;;
+struct;nau::DrawNodeAssetData;Assets/UI; ;     nau::DrawNodeAssetData  ;;
+enum;nau::UiElementType;Assets/UI; ;     nau::UiElementType;;
+struct;nau::UiElementAssetData;Assets/UI; ;     nau::UiElementAssetData      ;;
+struct;nau::IUiAssetAccessor;Assets/UI; ;      nau::IUiAssetAccessor ;;

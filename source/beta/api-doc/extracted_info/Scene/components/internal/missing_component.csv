@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/internal/missing_component.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::IMissingComponent;Scene; ;      nau::scene::IMissingComponent     ;;
+function;nau::scene::createDefaultMissingComponent;Scene; ;     ObjectUniquePtr<Component> nau::scene::createDefaultMissingComponent();;

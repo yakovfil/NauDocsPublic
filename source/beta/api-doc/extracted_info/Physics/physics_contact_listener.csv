@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_contact_listener.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::IPhysicsContactListener;Physics/Collision;Provides interface for accessing information about physical bodies contacts.;      nau::physics::IPhysicsContactListener ;;

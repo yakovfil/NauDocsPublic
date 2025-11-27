@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/skinned_mesh_component.h;
+file;;Scene;;;;
+namespace;nau;Scene; ;nau ;;
+class;nau::SkinnedMeshComponent;Scene/Components/Meshes; ;      nau::SkinnedMeshComponent ;;

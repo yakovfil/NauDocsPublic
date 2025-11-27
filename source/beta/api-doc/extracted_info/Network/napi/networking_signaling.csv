@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/napi/networking_signaling.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::INetworkingSignaling;Network;Provides an interface for a side channel for P2P connections.;     nau::INetworkingSignaling     ;;

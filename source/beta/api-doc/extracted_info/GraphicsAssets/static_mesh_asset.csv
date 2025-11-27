@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/graphics_assets/include/graphics_assets/static_mesh_asset.h;
+file;;GraphicsAssets;;;;
+namespace;nau;GraphicsAssets; ;nau ;;
+class;nau::StaticMeshAssetView;GraphicsAssets/Meshes; ;      nau::StaticMeshAssetView ;;

@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/network/include/nau/network/asio/networking_connection_asio.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::NetworkingConectionASIOContext;Network/ASIO; ;     nau::NetworkingConectionASIOContext     ;;
+class;nau::NetworkingListenerASIO;Network/ASIO;Class for listen for connection;     nau::NetworkingListenerASIO ;;
+class;nau::NetworkingConnectorASIO;Network/ASIO;Establishing a ASIO-based network connection.;     nau::NetworkingConnectorASIO ;;

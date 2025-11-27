@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/environment_component.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+class;nau::scene::EnvironmentComponent;Scene/Components/Environment Component; ;      nau::scene::EnvironmentComponent ;;

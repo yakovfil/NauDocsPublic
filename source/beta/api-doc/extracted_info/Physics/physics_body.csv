@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_body.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::PhysicsBodyCreationData;Physics/Body;Encapsulates physical properties that are used to initialize a physical body.;     nau::physics::PhysicsBodyCreationData     ;;
+class;nau::physics::IPhysicsBody;Physics/Body; ;      nau::physics::IPhysicsBody ;;

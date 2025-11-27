@@ -1,0 +1,9 @@
+sep=;
+engine/core/modules/graphics_assets/include/graphics_assets/material_asset.h;
+file;;GraphicsAssets;;;;
+namespace;nau;GraphicsAssets; ;nau ;;
+struct;nau::BufferDesc;GraphicsAssets/Materials;Structure for creating a buffer (SRV or UAV).;     nau::BufferDesc     ;;
+struct;nau::TextureDesc;GraphicsAssets/Materials;Structure for creating a read-write texture.;     nau::TextureDesc     ;;
+class;nau::MaterialAssetView;GraphicsAssets/Materials;Interface and base class for material asset views, implementing shared logic for master and instance material classes.;      nau::MaterialAssetView ;;
+class;nau::MasterMaterialAssetView;GraphicsAssets/Materials;Encapsulates the master material view, extending the functionality of MaterialAssetView.;      nau::MasterMaterialAssetView ;;
+class;nau::MaterialInstanceAssetView;GraphicsAssets/Materials;Encapsulates material instance view.;      nau::MaterialInstanceAssetView ;;

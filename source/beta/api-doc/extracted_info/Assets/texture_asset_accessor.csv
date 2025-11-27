@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/texture_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+enum;nau::TextureType;Assets/Textures; ;     nau::TextureType;;
+struct;nau::TextureDescription;Assets/Textures; ;     nau::TextureDescription     ;;
+struct;nau::DestTextureData;Assets/Textures; ;     nau::DestTextureData     ;;
+struct;nau::ITextureAssetAccessor;Assets/Textures; ;      nau::ITextureAssetAccessor ;;

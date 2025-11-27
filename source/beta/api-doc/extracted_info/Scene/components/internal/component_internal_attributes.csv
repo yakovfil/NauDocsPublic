@@ -1,0 +1,4 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/internal/component_internal_attributes.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;

@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/graphics_assets/include/graphics_assets/skinned_mesh_asset.h;
+file;;GraphicsAssets;;;;
+namespace;nau;GraphicsAssets; ;nau ;;
+struct;nau::SkinnedMeshLod;GraphicsAssets/Meshes; ;     nau::SkinnedMeshLod      ;;
+class;nau::SkinnedMesh;GraphicsAssets/Meshes; ;      nau::SkinnedMesh ;;
+class;nau::SkinnedMeshAssetView;GraphicsAssets/Meshes; ;      nau::SkinnedMeshAssetView ;;

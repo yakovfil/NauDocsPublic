@@ -1,0 +1,14 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation.h;
+file;;Animation;;;;
+namespace;nau::scene;Animation; ;nau::scene ;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+enum;nau::animation::AnimationInterpolationMethod;Animation/Keyframe Animation;Enumerates methods to interpolate values between two keyframes.;     nau::animation::AnimationInterpolationMethod;;
+enum;nau::animation::AnimationBlendMethod;Animation/Skeletal Animation;Enumerates methods to blend between multiple animations.;     nau::animation::AnimationBlendMethod;;
+enum;nau::animation::FrameEventControl;Animation/Keyframe Animation/Events;Enumerates frame event control flags.;     nau::animation::FrameEventControl;;
+struct;nau::animation::FrameEventInfo;Animation/Keyframe Animation/Events;Encapsualates frame event data.;     nau::animation::FrameEventInfo     ;;
+variable;nau::animation::MAX_EVENTS_PER_FRAME;Animation/Keyframe Animation/Events; ;    nau::animation::MAX_EVENTS_PER_FRAME;;
+struct;nau::animation::AnimationState;Animation;Describes animation playback state relevant for the current frame.;     nau::animation::AnimationState     ;;
+function;nau::animation::getAnimatableTarget;Animation/Target;Casts IAnimatable object to a specified type.;    template <typename TInstance>     TInstance* nau::animation::getAnimatableTarget(const IAnimatable::Ptr& fromTarget)     ;const IAnimatable::Ptr& fromTarget;
+function;nau::animation::getAnimatableTarget;Animation/Target;Retrieves the animated object from the animation state.;    template <typename TInstance>     TInstance* nau::animation::getAnimatableTarget(AnimationState& state)     ;AnimationState& state;
+class;nau::animation::Animation;Animation;Provides basic functionality for controlling animation and keframe events.;       nau::animation::Animation ;;

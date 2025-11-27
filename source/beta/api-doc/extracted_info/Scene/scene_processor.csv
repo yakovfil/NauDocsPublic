@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene_processor.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::IComponentsActivator;Scene;Provides interface for activating & deactivating components.;      nau::scene::IComponentsActivator     ;;
+struct;nau::scene::DeactivatedComponentData;Scene;Deactivated component data for async handlers.;     nau::scene::DeactivatedComponentData     ;;
+struct;nau::scene::IComponentsAsyncActivator;Scene;Provides interface for asynchronously activating & deactivating components.;      nau::scene::IComponentsAsyncActivator     ;;
+struct;nau::scene::ISceneProcessor;Scene; ;      nau::scene::ISceneProcessor ;;
+function;nau::scene::hasAcceptableComponent;Scene; ;    template <std::derived_from<Component> T, std::derived_from<Component>... U>     inline bool nau::scene::hasAcceptableComponent(eastl::span<const Component*> components)     ;eastl::span<const Component*> components;
+function;nau::scene::hasAcceptableComponent;Scene; ;    template <std::derived_from<Component> T, std::derived_from<Component>... U>     inline bool nau::scene::hasAcceptableComponent(eastl::span<Component*> components)     ;eastl::span<Component*> components;

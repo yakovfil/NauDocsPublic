@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physicsJolt/include/nau/physics/jolt/jolt_physics_shapes.h;
+file;;PhysicsJolt;;;;
+namespace;nau::physics::jolt;PhysicsJolt; ;nau::physics::jolt ;;
+class;nau::physics::jolt::JoltSphereShape;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltSphereShape ;;

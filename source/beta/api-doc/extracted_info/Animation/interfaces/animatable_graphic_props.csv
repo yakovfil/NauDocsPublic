@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/interfaces/animatable_graphic_props.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::IGraphicPropsAnimatable;Animation; ;      nau::animation::IGraphicPropsAnimatable ;;

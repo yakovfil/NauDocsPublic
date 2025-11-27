@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/animation_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::AnimationDataDescriptor;Assets/Animations;Describes animation data.;     nau::AnimationDataDescriptor     ;;
+struct;nau::FrameEventData;Assets/Animations;Encapsulates frame event data as present in animation asset.;     nau::FrameEventData     ;;
+struct;nau::FrameData;Assets/Animations;Encapsulates a collection of events attached to the frame as present in animation asset.;     nau::FrameData     ;;
+struct;nau::IAnimationAssetAccessor;Assets/Animations;Provides access the data from an animation asset.;      nau::IAnimationAssetAccessor ;;

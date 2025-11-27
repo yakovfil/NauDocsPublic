@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_defines.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+using;nau::physics::TFloat;Physics; ;    nau::physics::TFloat;;
+using;nau::physics::CollisionChannel;Physics;Type of the collision channel.;    nau::physics::CollisionChannel;;

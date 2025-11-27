@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::IScene;Scene;Encapsulates a scene and all objects associated with it.;      nau::scene::IScene ;;

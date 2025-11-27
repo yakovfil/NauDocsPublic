@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene_object.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+enum;nau::scene::SetParentOpts;Scene/Objects;Represents various options applied when object's parent is changed.;     nau::scene::SetParentOpts;;
+class;nau::scene::SceneObject;Scene/Objects;An object that can be placed at a scene;      nau::scene::SceneObject ;;

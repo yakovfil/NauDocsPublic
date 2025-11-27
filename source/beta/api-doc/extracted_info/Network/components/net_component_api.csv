@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/network/include/nau/network/components/net_component_api.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::IComponentNetSync;Network/Components;Provides an interface for serializing and deserializing a scene object component.;      nau::IComponentNetSync     ;;
+struct;nau::IComponentNetScene;Network/Components;Provides an interface for scene and scene objects components tracking.;      nau::IComponentNetScene     ;;

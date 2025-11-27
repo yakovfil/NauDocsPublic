@@ -1,0 +1,6 @@
+sphinx==7.1.2
+breathe==4.35.0
+furo
+sphinx-design
+sphinx-inline-tabs
+sphinx-copybutton

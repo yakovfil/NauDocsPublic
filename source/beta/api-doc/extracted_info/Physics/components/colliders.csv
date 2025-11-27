@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/components/colliders.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::ColliderBase;Physics/Collision; ;     nau::physics::ColliderBase     ;;
+struct;nau::physics::SphereCollider;Physics/Collision; ;     nau::physics::SphereCollider ;;
+struct;nau::physics::BoxCollider;Physics/Collision; ;     nau::physics::BoxCollider ;;
+struct;nau::physics::CapsuleCollider;Physics/Collision; ;     nau::physics::CapsuleCollider ;;
+struct;nau::physics::CylinderCollider;Physics/Collision; ;     nau::physics::CylinderCollider ;;
+struct;nau::physics::CollisionDescription;Physics/Collision; ;     nau::physics::CollisionDescription     ;;

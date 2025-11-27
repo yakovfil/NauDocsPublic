@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/data/frame.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+struct;nau::animation::Frame;Animation;Encapsulates per-frame data.;     nau::animation::Frame     ;;

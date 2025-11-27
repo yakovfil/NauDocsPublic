@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/camera/camera_manager.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::ICameraManager;Scene;Camera management API;      nau::scene::ICameraManager     ;;

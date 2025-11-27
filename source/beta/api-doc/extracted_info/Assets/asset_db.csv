@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_db.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IAssetDB;Assets; ;      nau::IAssetDB     ;;

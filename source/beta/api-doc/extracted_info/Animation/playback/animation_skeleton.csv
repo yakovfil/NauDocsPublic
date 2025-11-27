@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_skeleton.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::SkeletalAnimation;Animation/Skeletal Animation; ;      nau::animation::SkeletalAnimation ;;
+class;nau::animation::SkeletalAnimationMixer;Animation/Skeletal Animation; ;       nau::animation::SkeletalAnimationMixer ;;

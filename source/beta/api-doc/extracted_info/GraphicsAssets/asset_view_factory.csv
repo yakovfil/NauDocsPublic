@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/graphics_assets/include/graphics_assets/asset_view_factory.h;
+file;;GraphicsAssets;;;;
+namespace;nau;GraphicsAssets; ;nau ;;
+class;nau::GraphicsAssetViewFactory;GraphicsAssets; ;      nau::GraphicsAssetViewFactory  ;;

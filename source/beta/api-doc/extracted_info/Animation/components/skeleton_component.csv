@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/components/skeleton_component.h;
+file;;Animation;;;;
+namespace;nau;Animation; ;nau ;;
+struct;nau::ISkeletonAnimatableKeyFrameType;Animation/Components; ;     nau::ISkeletonAnimatableKeyFrameType     ;;
+struct;nau::SkeletalTrackData;Animation/Components; ;     nau::SkeletalTrackData      ;;
+struct;nau::SkeletalAnimRuntimeData;Animation/Components; ;     nau::SkeletalAnimRuntimeData      ;;
+class;nau::SkeletonComponent;Animation/Components; ;      nau::SkeletonComponent ;;

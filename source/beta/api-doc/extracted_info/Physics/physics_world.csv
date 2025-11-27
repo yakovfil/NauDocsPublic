@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_world.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+class;nau::physics::IPhysicsWorld;Physics;Provides physics system functionality like creating a physical body or casting a ray.;      nau::physics::IPhysicsWorld ;;

@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/data/frame_event.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+enum;nau::animation::FrameEventType;Animation/Keyframe Animation/Events;Enumerates event activation types.;     nau::animation::FrameEventType;;
+enum;nau::animation::FrameEventActivationDirection;Animation/Keyframe Animation/Events;Enumerates directions of playback that triggers the event.;     nau::animation::FrameEventActivationDirection;;
+class;nau::animation::FrameEvent;Animation/Keyframe Animation/Events;Encapsulates frame event parameters.;     nau::animation::FrameEvent     ;;

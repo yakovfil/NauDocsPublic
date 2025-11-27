@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene_query.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::SceneQuery;Scene; ;      nau::scene::SceneQuery     ;;

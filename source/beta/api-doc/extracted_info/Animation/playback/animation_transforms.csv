@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_transforms.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::TransformAnimation;Animation/Keyframe Animation; ;      nau::animation::TransformAnimation ;;
+class;nau::animation::TranslationAnimation;Animation/Keyframe Animation; ;      nau::animation::TranslationAnimation ;;
+class;nau::animation::RotationAnimation;Animation/Keyframe Animation; ;      nau::animation::RotationAnimation ;;
+class;nau::animation::ScaleAnimation;Animation/Keyframe Animation; ;      nau::animation::ScaleAnimation ;;
+class;nau::animation::SkewAnimation;Animation/Keyframe Animation; ;      nau::animation::SkewAnimation ;;
+enum;nau::animation::TransformAnimationActions;Animation/Keyframe Animation; ;     nau::animation::TransformAnimationActions;;

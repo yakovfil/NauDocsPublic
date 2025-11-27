@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/data/ui_canvas_builder.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+namespace;nau::ui::data;UI; ;    nau::ui::data     ;;
+class;nau::ui::UiCanvasBuilder;UI/Canvas; ;      nau::ui::UiCanvasBuilder     ;;

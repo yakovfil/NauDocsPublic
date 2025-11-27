@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_material.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+class;nau::physics::IPhysicsMaterial;Physics/Materials;Provides interface for managing physical materials.;      nau::physics::IPhysicsMaterial ;;

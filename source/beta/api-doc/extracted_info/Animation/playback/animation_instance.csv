@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_instance.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+struct;nau::animation::AnimationInstanceCreationData;Animation/Animation Instance; ;     nau::animation::AnimationInstanceCreationData     ;;
+class;nau::animation::AnimationInstance;Animation/Animation Instance;Allows to modify animation playback and blending parameters which are individual for each animated object.;      nau::animation::AnimationInstance ;;

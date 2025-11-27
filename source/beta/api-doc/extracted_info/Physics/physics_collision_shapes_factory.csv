@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_collision_shapes_factory.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+class;nau::physics::ICollisionShapesFactory;Physics/Collision;Provides interface for collider shape creation.;      nau::physics::ICollisionShapesFactory ;;

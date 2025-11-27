@@ -1,0 +1,17 @@
+sep=;
+engine/core/modules/input/include/nau/input.h;
+file;;Input;;;;
+namespace;nau::input;Input; ;nau::input ;;
+function;nau::input::setScreenResolution;Input;Informs the input manager of the screen resolution.;   void nau::input::setScreenResolution(int x, int y);int x, int y;
+function;nau::input::update;Input;Updates the input state.;   void nau::input::update();;
+function;nau::input::update;Input;Updates the input state.;   void nau::input::update(float dt);float dt;
+function;nau::input::getKeyboardDeviceCount;Input/Devices;Retrieves the number of currently registered keyboard devices.;   int nau::input::getKeyboardDeviceCount();;
+function;nau::input::isKeyboardButtonPressed;Input/Devices;Checks whether the keyboard button has just been pressed.;   bool nau::input::isKeyboardButtonPressed(int deviceId, nau::input::Key key);int deviceId, nau::input::Key key;
+function;nau::input::isKeyboardButtonHold;Input/Devices;Checks whether the keyboard button is being held down currently.;   bool nau::input::isKeyboardButtonHold(int deviceId, nau::input::Key key);int deviceId, nau::input::Key key;
+function;nau::input::getMouseDeviceCount;Input/Devices;Retrieves the number of currently registered mouse devices.;   int nau::input::getMouseDeviceCount();;
+function;nau::input::isMouseButtonPressed;Input/Devices;Checks if the mouse button has just been pressed.;   bool nau::input::isMouseButtonPressed(int deviceId, nau::input::MouseKey key);int deviceId, nau::input::MouseKey key;
+function;nau::input::isMouseButtonReleased;Input/Devices;Checks if the mouse button has just been released.;   bool nau::input::isMouseButtonReleased(int deviceId, nau::input::MouseKey key);int deviceId, nau::input::MouseKey key;
+function;nau::input::isMouseButtonHold;Input/Devices;Checks whether the mouse button is being held down currently.;   bool nau::input::isMouseButtonHold(int deviceId, nau::input::MouseKey key);int deviceId, nau::input::MouseKey key;
+function;nau::input::getMouseAxisValue;Input/Devices;Retrieves the mouse axis absolute value.;   float nau::input::getMouseAxisValue(int deviceId, nau::input::MouseKey key);int deviceId, nau::input::MouseKey key;
+function;nau::input::getMouseAxisDelta;Input/Devices;Retrieves the mouse axis delta value.;   float nau::input::getMouseAxisDelta(int deviceId, nau::input::MouseKey key);int deviceId, nau::input::MouseKey key;
+function;nau::input::getGaInputManager;Input;Retrieves the input manager.;   void* nau::input::getGaInputManager();;

@@ -1,0 +1,12 @@
+sep=;
+engine/core/modules/physicsJolt/include/nau/physics/jolt/jolt_physics_collider.h;
+file;;PhysicsJolt;;;;
+namespace;nau::physics::jolt;PhysicsJolt; ;nau::physics::jolt ;;
+class;nau::physics::jolt::JoltCollisionShape;PhysicsJolt/Collision;Jolt collision shape class wrapper.;     nau::physics::jolt::JoltCollisionShape     ;;
+class;nau::physics::jolt::JoltCollisionShapeImpl;PhysicsJolt/Collision; ;    template <std::derived_from<ICollisionShape> ShapeType>      nau::physics::jolt::JoltCollisionShapeImpl ;;
+class;nau::physics::jolt::JoltSphereCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltSphereCollision  ;;
+class;nau::physics::jolt::JoltBoxCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltBoxCollision  ;;
+class;nau::physics::jolt::JoltCapsuleCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltCapsuleCollision  ;;
+class;nau::physics::jolt::JoltCylinderCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltCylinderCollision  ;;
+class;nau::physics::jolt::JoltConvexHullCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltConvexHullCollision  ;;
+class;nau::physics::jolt::JoltMeshCollision;PhysicsJolt/Collision; ;     nau::physics::jolt::JoltMeshCollision  ;;

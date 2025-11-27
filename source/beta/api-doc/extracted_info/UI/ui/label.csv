@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/label.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+struct;nau::ui::SymbolParams;UI/Label; ; nau::ui::SymbolParams ;;
+struct;nau::ui::FontLetterDefinition;UI/Label; ; nau::ui::FontLetterDefinition ;;
+struct;nau::ui::SymbolDefinition;UI/Label;Encapsulates text symbol data.; nau::ui::SymbolDefinition ;;
+struct;nau::ui::TextLineDefinition;UI/Label;Encapsulates text line data.; nau::ui::TextLineDefinition ;;
+struct;nau::ui::TextDefinition;UI/Label;Encapsulates text block (a collection of text lines) data.; nau::ui::TextDefinition ;;
+class;nau::ui::NauLabel;UI/Label;Manages a text block.;  nau::ui::NauLabel ;;

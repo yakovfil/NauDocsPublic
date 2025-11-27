@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/button_data.h;
+file;;UI;;;;
+namespace;nau;UI; ;nau ;;
+namespace;nau::scene;UI; ;    nau::scene     ;;
+namespace;nau::ui;UI; ;nau::ui ;;
+struct;nau::ui::NauButtonStateAnimationData;UI/Button;Encapsulates button animation data used for a specific state.;     nau::ui::NauButtonStateAnimationData     ;;
+struct;nau::ui::NauButtonData;UI/Button;Encapsulates button per-state parameters.;     nau::ui::NauButtonData     ;;

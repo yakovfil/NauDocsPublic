@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/ui/include/nau/ui.h;
+file;;UI;;;;
+macro;NODE_DEBUG_SEARCH;UI; ;    NODE_DEBUG_SEARCH;;
+namespace;nau::ui;UI; ;nau::ui ;;
+struct;nau::ui::UiManager;UI;Provides basic control over canvases and GUI elements within GUI hierarchy.;      nau::ui::UiManager     ;;

@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/scroll.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+class;nau::ui::NauScroll;UI/Scroll;Encapsulates  scroll GUI element which allows to scroll through a collection of its children either horizontally or verticall using a scroll bar.;      nau::ui::NauScroll ;;

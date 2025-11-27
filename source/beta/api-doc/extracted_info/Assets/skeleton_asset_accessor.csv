@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/skeleton_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::SkeletonDataDescriptor;Assets/Skeletons; ;     nau::SkeletonDataDescriptor     ;;
+struct;nau::ISkeletonAssetAccessor;Assets/Skeletons; ;      nau::ISkeletonAssetAccessor ;;

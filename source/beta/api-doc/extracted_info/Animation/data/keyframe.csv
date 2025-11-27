@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/data/keyframe.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::KeyFrame;Animation/Keyframe Animation;Base class for a keyframe.;      nau::animation::KeyFrame ;;
+class;nau::animation::KeyFrameImpl;Animation/Keyframe Animation;Provides a default implementation for an animation keyframe class.;    template< TValue>      nau::animation::KeyFrameImpl ;;

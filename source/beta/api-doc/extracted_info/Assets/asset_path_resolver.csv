@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_path_resolver.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+class;nau::IAssetPathResolver;Assets; ;      nau::IAssetPathResolver     ;;

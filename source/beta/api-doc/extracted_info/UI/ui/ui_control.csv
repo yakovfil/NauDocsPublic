@@ -1,0 +1,9 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/ui_control.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+enum;nau::ui::EventType;UI;Enumerates GUI element input event types.;     nau::ui::EventType;;
+enum;nau::ui::UIState;UI;Enumerates GUI element states.;     nau::ui::UIState;;
+enum;nau::ui::HorizontalAlignment;UI;Encapsulates horizontal alignment types.;     nau::ui::HorizontalAlignment;;
+enum;nau::ui::VerticalAlignment;UI;Encapsulates vertical alignment types.;     nau::ui::VerticalAlignment;;
+class;nau::ui::UIControl;UI;Manages GUI element state and input events.;  nau::ui::UIControl ;;

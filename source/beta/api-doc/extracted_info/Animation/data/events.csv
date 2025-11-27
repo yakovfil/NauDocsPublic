@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/data/events.h;
+file;;Animation;;;;
+namespace;nau::animation::events;Animation; ;nau::animation::events ;;
+struct;nau::animation::events::FrameEventData;Animation/Keyframe Animation/Events; ;     nau::animation::events::FrameEventData     ;;

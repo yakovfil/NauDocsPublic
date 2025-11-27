@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_raycast.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::RayCastQuery;Physics/Raycast;Encapsulates raycasting query settings.;     nau::physics::RayCastQuery     ;;
+struct;nau::physics::RayCastResult;Physics/Raycast;Encapsulates ray hit information.;     nau::physics::RayCastResult     ;;

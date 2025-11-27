@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/elements/clipping_node.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui  ;;
+class;nau::ui::ClippingNode;UI; ;      nau::ui::ClippingNode ;;

@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/physicsJolt/include/nau/physics/jolt/jolt_physics_math.h;
+file;;PhysicsJolt;;;;
+namespace;nau::physics::jolt;PhysicsJolt; ;nau::physics::jolt ;;
+function;nau::physics::jolt::vec3ToJolt;PhysicsJolt/Utility;Translates Nau Engine vector3 to Jolt vector3.;    JPH::Vec3 nau::physics::jolt::vec3ToJolt(math::vec3 nauV);math::vec3 nauV;
+function;nau::physics::jolt::quatToJolt;PhysicsJolt/Utility;Translates Nau Engine quaternion to Jolt quaternion.;    JPH::Quat nau::physics::jolt::quatToJolt(math::quat nauQ);math::quat nauQ;
+function;nau::physics::jolt::joltVec4ToNauVec4;PhysicsJolt/Utility;Translates Jolt vector4 to Nau Engine vector4.;    math::vec4 nau::physics::jolt::joltVec4ToNauVec4(JPH::Vec4Arg joltVec);JPH::Vec4Arg joltVec;
+function;nau::physics::jolt::joltVec3ToNauVec3;PhysicsJolt/Utility;Translates Jolt vector3 to Nau Engine vector3.;    math::vec3 nau::physics::jolt::joltVec3ToNauVec3(JPH::Vec3Arg joltVec);JPH::Vec3Arg joltVec;
+function;nau::physics::jolt::joltMatToNauMat;PhysicsJolt/Utility;Translates Jolt matrix4x4 to Nau Engine matrix4x4.;    math::mat4 nau::physics::jolt::joltMatToNauMat(JPH::Mat44Arg joltMat);JPH::Mat44Arg joltMat;
+function;nau::physics::jolt::joltColorToNauColor4;PhysicsJolt/Utility;Translates Jolt color to Nau Engine color.;    math::Color4 nau::physics::jolt::joltColorToNauColor4(JPH::Color joltColor);JPH::Color joltColor;

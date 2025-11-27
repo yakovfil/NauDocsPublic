@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IAssetAccessor;Assets/Asset Access;Provides generic interface for accessing assets.;      nau::IAssetAccessor ;;

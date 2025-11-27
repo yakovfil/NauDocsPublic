@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/material.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::MaterialPipeline;Assets/Materials;Encapsulates compiled shaders data.;     nau::MaterialPipeline     ;;
+struct;nau::Material;Assets/Materials;Encapsulates a rendering material, which is a named collection of material pipelines (see MaterialPipeline). ;     nau::Material     ;;

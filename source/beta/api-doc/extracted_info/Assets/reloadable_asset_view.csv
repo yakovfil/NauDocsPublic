@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/reloadable_asset_view.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::ReloadableAssetView;Assets; ;      nau::ReloadableAssetView ;;

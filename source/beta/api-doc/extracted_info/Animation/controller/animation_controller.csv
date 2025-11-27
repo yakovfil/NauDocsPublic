@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/controller/animation_controller.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::AnimationController;Animation/Controller;Manages multiple animation instances animating one target.;       nau::animation::AnimationController ;;

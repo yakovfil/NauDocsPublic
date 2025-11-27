@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_descriptor_factory.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IAssetDescriptorFactory;Assets; ;      nau::IAssetDescriptorFactory     ;;

@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/core_physics.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::ICorePhysics;Physics; ;      nau::physics::ICorePhysics     ;;

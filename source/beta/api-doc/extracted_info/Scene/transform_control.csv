@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/transform_control.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::TransformProperties;Scene;Provides interface for read-only access to the object transform properties.;     nau::scene::TransformProperties     ;;
+struct;nau::scene::TransformControl;Scene;Provides interface for read&write access to the object transform properties.;     nau::scene::TransformControl ;;

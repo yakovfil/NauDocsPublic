@@ -1,0 +1,11 @@
+sep=;
+engine/core/modules/physics/include/nau/physics/physics_collider.h;
+file;;Physics;;;;
+namespace;nau::physics;Physics; ;nau::physics ;;
+struct;nau::physics::ICollisionShape;Physics/Collision;Provides generic interface for collision shape access.;      nau::physics::ICollisionShape ;;
+struct;nau::physics::ISphereCollision;Physics/Collision;Provides generic interface for sphere collision shape access.;      nau::physics::ISphereCollision ;;
+struct;nau::physics::IBoxCollision;Physics/Collision;Provides generic interface for box collision shape access.;      nau::physics::IBoxCollision ;;
+struct;nau::physics::ICapsuleCollision;Physics/Collision;Provides generic interface for capsule collision shape access.;      nau::physics::ICapsuleCollision ;;
+struct;nau::physics::ICylinderCollision;Physics/Collision;Provides generic interface for cylinder collision shape access.;      nau::physics::ICylinderCollision ;;
+struct;nau::physics::IConvexHullCollision;Physics/Collision;Provides a generic interface for convex hull collision shape access.;      nau::physics::IConvexHullCollision ;;
+struct;nau::physics::IMeshCollision;Physics/Collision;Provides a generic interface for mesh collision shape access.;      nau::physics::IMeshCollision ;;

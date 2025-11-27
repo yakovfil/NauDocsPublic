@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/shader_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IShaderAssetAccessor;Assets/Shaders; ;      nau::IShaderAssetAccessor ;;

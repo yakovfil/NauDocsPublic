@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/camera/camera.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::ICameraProperties;Scene; ;      nau::scene::ICameraProperties ;;
+struct;nau::scene::ICameraControl;Scene; ;      nau::scene::ICameraControl ;;
+struct;nau::scene::CameraProperties;Scene; ;      nau::scene::CameraProperties ;;

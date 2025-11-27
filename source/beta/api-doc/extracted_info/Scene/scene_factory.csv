@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene_factory.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+enum;nau::scene::CreateSceneOption;Scene; ;     nau::scene::CreateSceneOption;;
+struct;nau::scene::ISceneFactory;Scene; ;      nau::scene::ISceneFactory     ;;
+function;nau::scene::wrapSceneAsAsset;Scene; ;     SceneAsset::Ptr nau::scene::wrapSceneAsAsset(IScene::WeakRef sceneRef);IScene::WeakRef sceneRef;
+function;nau::scene::wrapSceneObjectAsAsset;Scene; ;     SceneAsset::Ptr nau::scene::wrapSceneObjectAsAsset(ObjectWeakRef<SceneObject> sceneObjectRef);ObjectWeakRef<SceneObject> sceneObjectRef;
+namespace;nau::scene_internal;Scene; ;nau::scene_internal ;;
+struct;nau::scene_internal::ISceneFactoryInternal;Scene;The API is solely intended for use in test projects only.;      nau::scene_internal::ISceneFactoryInternal     ;;

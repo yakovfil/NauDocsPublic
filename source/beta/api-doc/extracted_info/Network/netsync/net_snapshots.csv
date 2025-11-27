@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/netsync/net_snapshots.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::INetSnapshots;Network;Provides an interface for network snapshot service.;      nau::INetSnapshots     ;;

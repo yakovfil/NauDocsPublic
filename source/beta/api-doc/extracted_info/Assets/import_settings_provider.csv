@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/import_settings_provider.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IImportSettingsProvider;Assets; ;     nau::IImportSettingsProvider     ;;

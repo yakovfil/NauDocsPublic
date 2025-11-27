@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/slider.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+class;nau::ui::NauSlider;UI/Slider; ;      nau::ui::NauSlider ;;

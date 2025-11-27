@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/elements/sprite.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+class;nau::ui::Sprite;UI/Sprite;Provides functionality for sprite managing, i.e. an image container with standard GUI element behavior.;  nau::ui::Sprite ;;

@@ -1,0 +1,13 @@
+sep=;
+engine/core/modules/input/include/nau/input_system.h;
+file;;Input;;;;
+namespace;nau;Input; ;nau ;;
+struct;nau::InputSource;Input;Provides an interface for platform-dependent access to the input source;     nau::InputSource     ;;
+class;nau::IInputSourceManager;Input;Manages input sources;     nau::IInputSourceManager     ;;
+class;nau::IInputSerializable;Input;Provides an interface for input serialization to Datablock.;     nau::IInputSerializable     ;;
+class;nau::IInputDevice;Input;Provides an interface for platform-dependent access to the input device.;     nau::IInputDevice     ;;
+class;nau::IInputController;Input;Provides a proxy interface for platform-independent access to the input device.;     nau::IInputController     ;;
+class;nau::InputSignalProperties;Input;Encapsulates input signal generic properties.;     nau::InputSignalProperties     ;;
+class;nau::IInputSignal;Input;Provides input signal interface allowing to access signal state, values and nested inout signals.;     nau::IInputSignal ;;
+class;nau::IInputAction;Input;Provides input action interface which can exhibit user-defined behavior depending on the state change of the associated signal with context support.;     nau::IInputAction ;;
+class;nau::IInputSystem;Input;Provides a general interface for managing input signals, actions and contexts.;     nau::IInputSystem     ;;

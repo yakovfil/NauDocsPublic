@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_manager.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+enum;nau::UnloadAssets;Assets; ;     nau::UnloadAssets;;
+struct;nau::IAssetManager;Assets; ;      nau::IAssetManager     ;;

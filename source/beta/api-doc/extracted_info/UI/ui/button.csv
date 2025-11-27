@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/button.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+enum;nau::ui::ButtonTransition;UI/Button;Enumerates button animation targets.;     nau::ui::ButtonTransition;;
+class;nau::ui::NauButton;UI/Button;Encapsulates GUI button logic and data.;  nau::ui::NauButton ;;

@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/edit/animation_editor.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+struct;nau::animation::IAnimationEditor;Animation;A utlity class that allows to accumulate changes to the managed animation object and then apply(commit) them all at once.;    template<typename TKeyFrameValueType>      nau::animation::IAnimationEditor     ;;
+class;nau::animation::AutoAnimationEditor;Animation; ;    template<typename TKeyFrameValueType>      nau::animation::AutoAnimationEditor  ;;

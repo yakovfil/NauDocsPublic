@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/spotlight_component.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+class;nau::scene::SpotlightComponent;Scene/Components/Lighting; ;      nau::scene::SpotlightComponent ;;

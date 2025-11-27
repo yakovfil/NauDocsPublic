@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/physicsJolt/include/nau/physics/jolt/jolt_physics_assets.h;
+file;;PhysicsJolt;;;;
+namespace;nau::physics::jolt;PhysicsJolt; ;nau::physics::jolt ;;
+class;nau::physics::jolt::JoltConvexHullAssetView;PhysicsJolt/Assets; ;     nau::physics::jolt::JoltConvexHullAssetView  ;;
+class;nau::physics::jolt::JoltTriMeshAssetView;PhysicsJolt/Assets; ;     nau::physics::jolt::JoltTriMeshAssetView  ;;

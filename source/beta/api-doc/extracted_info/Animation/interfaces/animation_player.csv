@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/interfaces/animation_player.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::IAnimationPlayer;Animation;Provides an interface for controlling a single animation playback.;     nau::animation::IAnimationPlayer ;;

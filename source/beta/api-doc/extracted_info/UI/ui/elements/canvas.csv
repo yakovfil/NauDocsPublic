@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/elements/canvas.h;
+file;;UI;;;;
+namespace;nau::ui;UI; ;nau::ui ;;
+enum;nau::ui::RescalePolicy;UI/Canvas;Governs canvas behavior when the window size changes.; nau::ui::RescalePolicy;;
+class;nau::ui::Canvas;UI/Canvas; ;  nau::ui::Canvas ;;

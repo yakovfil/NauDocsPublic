@@ -1,0 +1,13 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/shader.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::SignatureParameterDescription;Assets/Shaders;Describes a parameter within a shader input layout.;     nau::SignatureParameterDescription     ;;
+struct;nau::ShaderVariableTypeDescription;Assets/Shaders;Describes a user-defined shader variable type.;     nau::ShaderVariableTypeDescription     ;;
+struct;nau::ShaderVariableDescription;Assets/Shaders;Describes a shader variable.;     nau::ShaderVariableDescription     ;;
+struct;nau::ShaderBufferDescription;Assets/Shaders;Describes a shader constant-buffer.;     nau::ShaderBufferDescription     ;;
+struct;nau::ShaderInputBindDescription;Assets/Shaders;Describes how a shader resource is bound to a shader input.;     nau::ShaderInputBindDescription     ;;
+struct;nau::ShaderReflection;Assets/Shaders; ;     nau::ShaderReflection     ;;
+struct;nau::VertexShaderDeclarationRegister;Assets/Shaders;Describes a register within a vertex shader declaration.;     nau::VertexShaderDeclarationRegister     ;;
+struct;nau::VertexShaderDeclaration;Assets/Shaders;Describes a vertex shader declaration.;     nau::VertexShaderDeclaration     ;;
+struct;nau::Shader;Assets/Shaders;Encapsulates information about a shader.;     nau::Shader     ;;

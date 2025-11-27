@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/napi/networking_factory.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::NetworkingFactory;Network;Network context instance factory class.;      nau::NetworkingFactory     ;;

@@ -1,0 +1,64 @@
+SOURCES
+{
+	Physics ../NauEngine/engine/core/modules/physics/include/nau/physics
+	Animation ../NauEngine/engine/core/modules/animation/include/nau/animation
+	Assets ../NauEngine/engine/core/modules/assets/include/nau/assets
+	Scene ../NauEngine/engine/core/modules/scene/include/nau/scene
+	GraphicsAssets ../NauEngine/engine/core/modules/graphics_assets/include/graphics_assets
+	Input ../NauEngine/engine/core/modules/input/include/nau
+	Network ../NauEngine/engine/core/modules/network/include/nau/network
+	PhysicsJolt ../NauEngine/engine/core/modules/physicsJolt/include/nau/physics/jolt
+	UI ../NauEngine/engine/core/modules/ui/include/nau
+}
+GLOBAL_INCLUDE/EXCLUDES
+{
+	~NAU_\w+?_EXPORT
+	~__declspec\([^)]*\)
+	~NAU_ABSTRACT_TYPE
+	-NAU_INTERFACE([^\n]+)
+	-NAU_DEFINE_ENUM([^)]+)
+	-final
+	-NAU_DEFINE_TYPED_FLAG
+	-NAU_DECLARE_MESSAGE
+	-NAU_OBJECT 
+}
+FILE_CONFIGS
+{
+	-component_factory.h
+	-scene_listener.h
+	-scene_manager_internal.h
+	-asset_descriptor_inernal.h
+	-networking_test.h
+	-net_sync_transform_component.h
+	-missing_component.h
+	-component_internal_attributes.h
+}
+MACRO_SYMBOLS
+{
+	_MSC_VER=1939
+	MACROX
+	WIN32
+	_WINDOWS
+	NAU_MODULE_NAME=Render
+	NAU_MODULE_BUILD
+	WIN32_LEAN_AND_MEAN
+	NOMINMAX
+	_CRT_SECURE_NO_WARNINGS
+	NAU_RENDER_EXPORT=
+	NAU_RENDER_BUILD
+	NAU_MODULES_LIST="NauKernel,vectormath"
+	_TARGET_PC=1
+	_TARGET_PC_WIN=1
+	_TARGET_64BIT=1
+	_TARGET_SIMD_SSE=1
+	INSIDE_DRIVER=1
+	NAU_STATIC_RUNTIME=1
+	EASTL_DLL=0
+	EA_DLL=0
+	EASTL_USER_DEFINED_ALLOCATOR
+	JSON_USE_EXCEPTION=0
+	ZLIB_COMPAT
+	TRACY_ENABLE
+	TRACY_ON_DEMAND
+	CMAKE_INTDIR="Debug"
+}

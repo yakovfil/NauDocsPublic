@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/component_life_cycle.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::IComponentUpdate;Scene/Components;Provides an interface for component per-frame update.;      nau::scene::IComponentUpdate     ;;
+struct;nau::scene::IComponentAsyncUpdate;Scene/Components;Provides an interface for component per-frame asynchronous update.;      nau::scene::IComponentAsyncUpdate     ;;
+struct;nau::scene::IComponentActivation;Scene/Components;Provides an interface for component activation & deactivation.;      nau::scene::IComponentActivation     ;;
+struct;nau::scene::IComponentEvents;Scene/Components;Provides an interface for events that are triggered during the component lifecycle.;      nau::scene::IComponentEvents     ;;

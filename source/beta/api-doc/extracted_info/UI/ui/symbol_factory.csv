@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/symbol_factory.h;
+file;;UI;;;;
+namespace;cocos2d;UI; ;cocos2d ;;
+namespace;nau::ui;UI; ;nau::ui ;;
+class;nau::ui::SymbolFactory;UI; ;      nau::ui::SymbolFactory     ;;

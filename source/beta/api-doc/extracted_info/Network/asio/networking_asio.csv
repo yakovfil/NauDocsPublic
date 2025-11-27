@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/asio/networking_asio.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::NetworkingASIO;Network/ASIO;Provides interface for ASIO network context instance.;     nau::NetworkingASIO ;;

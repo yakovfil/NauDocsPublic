@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/transportTest/networking_test.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::NetworkingTest;Network;Empty test implementation, developers only usage;     nau::NetworkingTest ;;

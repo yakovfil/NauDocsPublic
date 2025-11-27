@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/omnilight_component.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+class;nau::scene::OmnilightComponent;Scene/Components/Lighting; ;      nau::scene::OmnilightComponent ;;

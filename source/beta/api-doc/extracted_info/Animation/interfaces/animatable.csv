@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/interfaces/animatable.h;
+file;;Animation;;;;
+namespace;nau::scene;Animation; ;nau::scene ;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::IAnimationTarget;Animation/Target; ;      nau::animation::IAnimationTarget ;;
+class;nau::animation::IAnimatable;Animation/Target;Provides an interface for an object that can be animated.;     nau::animation::IAnimatable ;;

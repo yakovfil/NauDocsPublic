@@ -1,0 +1,8 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_scalars.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::BoolAnimation;Animation/Keyframe Animation; ;      nau::animation::BoolAnimation ;;
+class;nau::animation::IntegerAnimation;Animation/Keyframe Animation; ;      nau::animation::IntegerAnimation ;;
+class;nau::animation::FloatAnimation;Animation/Keyframe Animation; ;      nau::animation::FloatAnimation ;;
+class;nau::animation::ScalarParameterAnimatable;Animation/Keyframe Animation; ;      nau::animation::ScalarParameterAnimatable ;;

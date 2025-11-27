@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/components/animation_component.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+struct;nau::animation::AnimTrackCreationInfo;Animation/Components; ;     nau::animation::AnimTrackCreationInfo      ;;
+class;nau::animation::AnimationComponent;Animation/Components;Provides opportunity to animate properties of a target.;      nau::animation::AnimationComponent ;;

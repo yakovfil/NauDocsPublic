@@ -1,0 +1,7 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/scene_manager.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+struct;nau::scene::ISceneManager;Scene;Provides interface for managing scenes and worlds.;      nau::scene::ISceneManager     ;;
+function;nau::scene::createSingleObjectQuery;Scene; ;     SceneQuery nau::scene::createSingleObjectQuery(ObjectWeakRef<> object);ObjectWeakRef<> object;
+function;nau::scene::openScene;Scene; ;     async::Task<IScene::Ptr> nau::scene::openScene(const eastl::string& path);const eastl::string& path;

@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/components/skeleton_socket_component.h;
+file;;Animation;;;;
+namespace;nau;Animation; ;nau ;;
+class;nau::SkeletonSocketComponent;Animation/Components;Provides opportunity for child objects to be attached to (i.e. move together with) a particular bone of the skeleton.;      nau::SkeletonSocketComponent ;;

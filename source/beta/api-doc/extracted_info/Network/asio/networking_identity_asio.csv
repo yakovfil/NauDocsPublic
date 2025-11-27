@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/asio/networking_identity_asio.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::NetworkingIdentityASIO;Network/ASIO;Encapsulates ASIO-specific ID.;     nau::NetworkingIdentityASIO ;;

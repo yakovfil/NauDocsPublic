@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/ui/include/nau/ui/elements/node.h;
+file;;UI;;;;
+macro;UI_ELEMENT_DEBUG;UI; ;UI_ELEMENT_DEBUG;;
+namespace;nau;UI; ;nau ;;
+namespace;nau::animation;UI; ;    nau::animation     ;;
+namespace;nau::scene;UI; ;    nau::scene     ;;
+namespace;nau::ui;UI; ;nau::ui ;;
+enum;nau::ui::DebugDrawLevel;UI; ; nau::ui::DebugDrawLevel;;
+class;nau::ui::Node;UI; ;  nau::ui::Node ;;

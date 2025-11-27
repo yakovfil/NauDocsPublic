@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/network/include/nau/network/napi/networking_address.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+enum;nau::NetworkingAddressType;Network;Enumerates known address types.;     nau::NetworkingAddressType;;
+struct;nau::NetworkingAddress;Network;Encapsulates address of some type.;     nau::NetworkingAddress     ;;

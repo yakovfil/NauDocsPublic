@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/directional_light_component.h;
+file;;Scene;;;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+class;nau::scene::DirectionalLightComponent;Scene/Components/Lighting; ;      nau::scene::DirectionalLightComponent ;;

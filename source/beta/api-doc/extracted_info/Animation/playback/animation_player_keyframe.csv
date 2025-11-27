@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/playback/animation_player_keyframe.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::KeyFrameAnimationPlayer;Animation/Keyframe Animation; ;     nau::animation::KeyFrameAnimationPlayer ;;

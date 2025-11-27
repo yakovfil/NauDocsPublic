@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/asset_view_factory.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+struct;nau::IAssetViewFactory;Assets/Asset Access;Provides an interface for creating asset views.;      nau::IAssetViewFactory ;;

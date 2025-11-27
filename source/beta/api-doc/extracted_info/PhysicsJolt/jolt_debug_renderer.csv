@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/physicsJolt/include/nau/physics/jolt/jolt_debug_renderer.h;
+file;;PhysicsJolt;;;;
+namespace;nau::physics::jolt;PhysicsJolt; ;nau::physics::jolt ;;
+class;nau::physics::jolt::JoltBodyDrawFilterImpl;PhysicsJolt/Debug Renderer; ;     nau::physics::jolt::JoltBodyDrawFilterImpl ;;
+class;nau::physics::jolt::DebugRendererImp;PhysicsJolt/Debug Renderer; ;     nau::physics::jolt::DebugRendererImp  ;;

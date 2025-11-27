@@ -1,0 +1,82 @@
+@import url('fonts/import_fonts.css');
+
+/* h1 {
+    font-family: 'Coil-Bold', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    color: rgb(255, 255, 255)
+}
+
+h2 {
+    font-family: 'Coil-Bold', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    color: rgb(255, 255, 255)
+}
+
+h3 {
+    font-family: 'Coil-Bold', sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    color: rgb(255, 255, 255)
+}
+
+p {
+    font-family: 'Coil-Regular', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(207, 208, 208)
+} */
+
+.sidebar-tree li.current-page>.reference
+{
+    color: rgba(255, 126, 41, 1);
+    font-family: 'Coil-Bold', sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.sidebar-brand-text
+{
+    font-family:'Coil-Bold', sans-serif;    
+    font-size: 26px;
+    line-height: 28px;
+}
+
+
+.sidebar-tree li>ul
+{
+    margin-left:16px;
+}
+
+.sidebar-tree li.has-children>.reference
+{
+    font-family: 'Coil-Medium', sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+table.align-center {
+    margin-left: 16px;
+}
+
+.sidebar-drawer
+{
+    width: 0;
+}
+.toc-drawer
+{
+    padding-left: 0px;
+    width: 20%;
+    padding-right: 10px
+}
+.content
+{
+    padding-left: 15%;
+    width: 60%;
+    padding-right: 15%    
+}
+
+img.largepadding {padding: 1em;}
+
+.larg {width: 99%;}

@@ -1,0 +1,9 @@
+sep=;
+engine/core/modules/scene/include/nau/scene/components/component.h;
+file;;Scene;;;;
+namespace;nau::scene_internal;Scene; ;nau::scene_internal ;;
+struct;nau::scene_internal::ComponentListNode;Scene/Components; ;     nau::scene_internal::ComponentListNode ;;
+namespace;nau::scene;Scene; ;nau::scene ;;
+class;nau::scene::Component;Scene/Components; ;       nau::scene::Component ;;
+macro;NAU_COMPONENT;Scene/Components; ;NAU_COMPONENT;;
+macro;NAU_IMPLEMENT_COMPONENT;Scene; ;NAU_IMPLEMENT_COMPONENT;;

@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/network/include/nau/network/components/net_sync_transform_component.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::NetworkTransformData;Network;Data for NetworkTransform component sample;     nau::NetworkTransformData     ;;
+class;nau::NetSyncTransformComponent;Network; ;     nau::NetSyncTransformComponent  ;;

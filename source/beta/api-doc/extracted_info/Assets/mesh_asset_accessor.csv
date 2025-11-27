@@ -1,0 +1,10 @@
+sep=;
+engine/core/modules/assets/include/nau/assets/mesh_asset_accessor.h;
+file;;Assets;;;;
+namespace;nau;Assets; ;nau ;;
+enum;nau::ElementFormat;Assets/Meshes; ;     nau::ElementFormat;;
+enum;nau::AttributeType;Assets/Meshes; ;     nau::AttributeType;;
+struct;nau::VertAttribDescription;Assets/Meshes; ;     nau::VertAttribDescription     ;;
+struct;nau::OutputVertAttribDescription;Assets/Meshes; ;     nau::OutputVertAttribDescription ;;
+struct;nau::MeshDescription;Assets/Meshes; ;     nau::MeshDescription     ;;
+struct;nau::IMeshAssetAccessor;Assets/Meshes; ;      nau::IMeshAssetAccessor ;;

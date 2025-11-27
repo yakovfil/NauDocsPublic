@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/assets/skeleton_asset.h;
+file;;Animation;;;;
+namespace;nau;Animation; ;nau ;;
+struct;nau::SkeletonJoint;Animation/Assets; ;     nau::SkeletonJoint     ;;
+class;nau::SkeletonAssetView;Animation/Assets; ;      nau::SkeletonAssetView ;;

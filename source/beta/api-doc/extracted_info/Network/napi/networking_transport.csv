@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/napi/networking_transport.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::INetworkingTransport;Network;Provides an interface for data transfer.;     nau::INetworkingTransport     ;;

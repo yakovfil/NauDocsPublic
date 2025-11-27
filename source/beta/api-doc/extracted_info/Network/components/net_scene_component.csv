@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/components/net_scene_component.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+class;nau::NetSceneComponent;Network/Components; ;     nau::NetSceneComponent  ;;

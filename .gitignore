@@ -1,0 +1,4 @@
+build
+**/api-doc/xml
+**/api-doc/html
+source/*/api-doc/generated_content

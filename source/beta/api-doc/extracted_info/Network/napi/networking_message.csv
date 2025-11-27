@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/network/include/nau/network/napi/networking_message.h;
+file;;Network;;;;
+namespace;nau;Network; ;nau ;;
+struct;nau::NetworkingMessage;Network;Encapsulates a networking message which is a byte sequence of known size.;     nau::NetworkingMessage     ;;

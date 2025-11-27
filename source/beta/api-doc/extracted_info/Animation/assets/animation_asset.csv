@@ -1,0 +1,6 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/assets/animation_asset.h;
+file;;Animation;;;;
+namespace;nau::animation::data;Animation; ;nau::animation::data ;;
+struct;nau::animation::data::AnimationPlaybackData;Animation/Assets;Encapsulates animation playback parameters.;     nau::animation::data::AnimationPlaybackData     ;;
+class;nau::animation::data::AnimationAssetView;Animation/Assets;Provides functionality to extract animation and playback data from an animation asset.;      nau::animation::data::AnimationAssetView ;;

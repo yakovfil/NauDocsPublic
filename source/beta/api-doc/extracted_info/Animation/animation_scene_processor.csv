@@ -1,0 +1,5 @@
+sep=;
+engine/core/modules/animation/include/nau/animation/animation_scene_processor.h;
+file;;Animation;;;;
+namespace;nau::animation;Animation; ;nau::animation ;;
+class;nau::animation::AnimationSceneProcessor;Animation; ;      nau::animation::AnimationSceneProcessor  ;;
