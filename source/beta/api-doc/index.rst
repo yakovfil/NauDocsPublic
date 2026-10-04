@@ -13,7 +13,6 @@
    generated_content/Physics/index
    generated_content/PhysicsJolt/index
    generated_content/Scene/index
-   generated_content/UI/index
 
 Welcome to Nau Engine API Reference!
 ---------------------------------------------
